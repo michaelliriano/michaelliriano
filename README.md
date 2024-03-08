@@ -1,5 +1,5 @@
 # About Me:
-I am a self taught Web Developer from Fort Lauderdale, Florida and I have been programming for over 4 years. I am passionate about all types of technology, however, my primary focus and inspiration is Web Development. I am constantly experimenting with new technologies and stacks and strive to better myself as a developer each and everyday. In my free time, I enjoy playing guitar, piano, and producing music on Pro Tools for myself and others.
+I am a self taught Web Developer from Fort Lauderdale, Florida and I have been programming for over 5 years. I am passionate about all types of technology, however, my primary focus and inspiration is Web Development. I am constantly experimenting with new technologies and stacks and strive to better myself as a developer each and everyday. In my free time, I enjoy playing guitar, piano, and producing music on Pro Tools for myself and others.
 
 
 ## 🌐 Socials:
